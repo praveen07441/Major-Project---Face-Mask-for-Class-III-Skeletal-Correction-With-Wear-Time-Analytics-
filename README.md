@@ -93,6 +93,35 @@
 
 • Indicates connection status with the monitoring device
 
-• Helps doctors verify whether the applied force is within the required range
 
-• Supports clinical decision-making by monitoring treatment effectiveness
+
+
+<h1 style="font-size:28px; font-weight:bold;">Author – Praveen S</h1>
+
+<p style="font-size:16px;">
+This project is part of my academic and professional portfolio, showcasing my skills in 
+<strong>embedded systems, Android application development, IoT, and wear time analytics</strong> 
+applied to a real-world <strong>healthcare / orthodontic monitoring system</strong>.
+</p>
+
+<p style="font-size:16px;">
+The project focuses on monitoring <strong>mask wear duration</strong> and <strong>applied force</strong> 
+for effective <strong>Class III skeletal correction</strong>.
+</p>
+
+<p style="font-size:16px;">
+If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+</p>
+
+<ul style="font-size:16px;">
+  <li><strong>LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/praveven-s-28b9b0259">
+      https://www.linkedin.com/in/praveven-s-28b9b0259
+    </a>
+  </li>
+</ul>
+
+<p style="font-size:16px;">
+Thank you for your interest, and I look forward to connecting with you!
+</p>
+
