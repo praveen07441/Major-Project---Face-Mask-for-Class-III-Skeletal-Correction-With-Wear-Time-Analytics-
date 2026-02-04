@@ -29,7 +29,8 @@
 
 
 
-📱 Login Screen – Mask Wear Analytics
+<h2 style="color:#1E90FF;">Login Screen – Mask Wear Analytics</h2>
+
 
 • Provides secure authentication for users using email and password
 
