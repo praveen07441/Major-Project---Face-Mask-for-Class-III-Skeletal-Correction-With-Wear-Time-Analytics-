@@ -42,6 +42,10 @@
 
 
 
+
+
+
+
 👤 Patient Monitoring Dashboard
 
 • Displays patient profile details such as name, UID, and current status
@@ -57,6 +61,9 @@
 
 
 
+
+
+
 ⏱️ Mask Usage Duration Analytics
 
 • Visualizes mask wear duration using Day, Week, and Month views
@@ -66,6 +73,9 @@
 • Helps analyze patient compliance trends over time
 
 • Supports data-driven evaluation of treatment adherence
+
+
+
 
 
 
