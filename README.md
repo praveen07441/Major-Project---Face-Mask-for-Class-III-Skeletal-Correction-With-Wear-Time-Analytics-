@@ -47,7 +47,8 @@
 
 
 
-👤 Patient Monitoring Dashboard
+<h2 style="color:#2E8B57;">👤 Patient Monitoring Dashboard</h2>
+
 
 • Displays patient profile details such as name, UID, and current status
 
@@ -65,7 +66,9 @@
 
 
 
-⏱️ Mask Usage Duration Analytics
+<h2 style="color:#FF8C00;">⏱️ Mask Usage Duration Analytics</h2>
+
+
 
 • Visualizes mask wear duration using Day, Week, and Month views
 
@@ -81,7 +84,8 @@
 
 
 
-📊 Real-Time Force Monitoring Graph
+<h2 style="color:#8A2BE2;">📊 Real-Time Force Monitoring Graph</h2>
+
 
 • Displays live force values applied by the face mask using a load cell
 
